@@ -1,4 +1,5 @@
-Hello ,I'm Santosh Kumar Ranawat welcome my github account.
+Hello ,I'm Santosh Kumar Ranawat welcome my github account. 
+today we are lear how can install tailwind css and how can apply tailwindcss in our project.
 
 let's start-------------
 
